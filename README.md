@@ -1,4 +1,4 @@
-V(anilla)cash
+Mkxi
 ===========
 
 ### Build status - MacOS, clang
